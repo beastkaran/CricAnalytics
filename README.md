@@ -12,7 +12,6 @@ Additionally, we developed a *website* that enhances the analysis by offering de
 
 ## Website Interface
 ![image](https://github.com/user-attachments/assets/d0c871f6-997e-45cd-9123-010cd4b63a2b)
-![image](https://github.com/user-attachments/assets/baa1beb4-fd8f-4d46-940b-e68b4a9758e2)
 ![image](https://github.com/user-attachments/assets/97718510-62b8-4b1f-ab8f-7b8e21e3a6a3)
 
 
