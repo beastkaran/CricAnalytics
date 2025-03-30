@@ -7,9 +7,15 @@ Additionally, we developed a *website* that enhances the analysis by offering de
 
 ## Dashboard Preview
 ![WhatsApp Image 2025-03-30 at 12 38 12_4e6458c9](https://github.com/user-attachments/assets/18b64c10-89da-4b30-a6e9-2617f0db4183)
+![image](https://github.com/user-attachments/assets/89735bfb-379c-4f70-a961-c64e1350ce08)
+
 
 ## Website Interface
 ![image](https://github.com/user-attachments/assets/d0c871f6-997e-45cd-9123-010cd4b63a2b)
+![image](https://github.com/user-attachments/assets/baa1beb4-fd8f-4d46-940b-e68b4a9758e2)
+![image](https://github.com/user-attachments/assets/97718510-62b8-4b1f-ab8f-7b8e21e3a6a3)
+
+
 
 ## Features
 - *Live Data Integration: Fetches real-time cricket match data via the **Cricbuzz API*.
